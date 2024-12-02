@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "Underwater drones and semi-automatic SfM, a challenge for underwater archaeology, or are we already there?",
+  "datePublished": "2024-01-05T08:00:00+08:00",
+  "dateModified": "2024-02-05T09:20:00+08:00",
+  "description": [{
+    "@value": "Drones sous-marins : un outil peu coûteux mais puissant pour la cartographie archéologique sous-marine",
+    "@language": "fr"
+  }, {
+    "@value": "पानी के नीचे के ड्रोन: पानी के नीचे पुरातात्विक मानचित्रण के लिए एक कम लागत वाला, फिर भी शक्तिशाली उपकरण",
+    "@language": "hi"
+  }
+  ],
+  "author": [{
+      "@type": "Person",
+      "name": "Jitte Waagen"
+    },{
+      "@type": "Person"
+  }],
+  "isBasedOn": {
+    "@id": "https://zenodo.org/records/14050322",
+    "@type": "ScholarlyArticle",
+    "headline": "Underwater Drones as a Low-Cost, yet Powerful Tool for Underwater Archaeological Mapping: Case Studies from the Mediterranean",
+    "description": "Underwater Drones as a Low-Cost, yet Powerful Tool for Underwater Archaeological Mapping: Case Studies from the Mediterranean",
+    "author": [{
+      "@id": "https://orcid.org/0009-0006-2562-4786",
+      "@type": "Person",
+      "name": "Diamanti, Eleni"
+    }]
+  }
+}
