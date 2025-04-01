@@ -1,3 +1,5 @@
+We moved https://codeberg.org/phochste/google-rich-data
+
 # Google Rich Snippets
 
 See also https://developers.google.com/search/docs/appearance/structured-data/article.
